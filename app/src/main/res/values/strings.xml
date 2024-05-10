@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Внутренняя навигация</string>
+    <string name="float_button_name">Добавить</string>
+    <string name="see_location">Посмотреть локацию</string>
+    <string name="see_ibeacon">Список маяков</string>
+    <string name="information">Информация</string>
+    <string name="ble_not_supported">Устройство не поддерживает BLE интеграцию</string>
+    <string name="unknown_device">Неизвестное устройство</string>
+    <string name="dialog_message">Вам нужен новый ID?</string>
+    <string name="dialog_title">Новое измерение?</string>
+    <string name="search_devices">Сканирование…</string>
+    <string name="ble_device_name">%1$s</string>
+    <string name="ble_coordinates">X:%1$.2f Y:%2$.2f</string>
+    <string name="ble_rssi">%1$.2f</string>
+    <string name="ble_battery">%d</string>
+    <string name="ble_distance">%1$s m</string>
+    <string name="real_device_phase">Real Device Position</string>
+    <string name="set_device_phase">BLE позиция</string>
+    <string name="main">Внутрення навигация с BLE маяками. Работа бакалавра МИСИС</string>
+    <string name="noWifi">Пожалуйста, подключитесь к Wi-Fi</string>
+    <string name="offline">Вы находитесь в режиме оффлайн</string>
+    <string name="notPermitted">Службы определения местоположения не разрешены для этого приложения.</string>
+    <string name="accessLocation">Разрешите доступ к службам определения местоположения</string>
+    <string name="accessBLE">Разрешите доступ к службам определения местоположения, чтобы можно было обнаружить устройства iBeacon.</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Отмена</string>
+    <string name="whichScenario">Пожалуйста, выберите сценарий</string>
+    <string name="scenario">Scenario %1$s</string>
+    <string name="title_activity_maps">Карта</string>
+
+
+    <string-array name="areas4">
+        <item>A1</item>
+        <item>A2</item>
+        <item>A3</item>
+        <item>A4</item>
+    </string-array>
+
+    <string-array name="areas6">
+        <item>A1</item>
+        <item>A2</item>
+        <item>A3</item>
+        <item>A4</item>
+        <item>A5</item>
+        <item>A6</item>
+    </string-array>
+    <string-array name="areas">
+        <item>A1</item>
+        <item>A2</item>
+        <item>A3</item>
+        <item>A4</item>
+        <item>A5</item>
+        <item>A6</item>
+        <item>A7</item>
+        <item>A8</item>
+        <item>A9</item>
+        <item>A10</item>
+        <item>A11</item>
+        <item>A12</item>
+        <item>A13</item>
+        <item>A14</item>
+        <item>A15</item>
+        <item>A16</item>
+        <item>A17</item>
+        <item>A18</item>
+        <item>A19</item>
+        <item>A20</item>
+        <item>A21</item>
+        <item>A22</item>
+
+
+    </string-array>
+    <string name="noInternet">Отсутствует подключение к интернету</string>
+    <string name="dialogPosition">Оцените приложение</string>
+
+</resources>

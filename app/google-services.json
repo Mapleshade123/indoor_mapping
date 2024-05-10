@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "291528747801",
+    "firebase_url": "https://indoor-mapping-3c03d-default-rtdb.firebaseio.com",
+    "project_id": "indoor-mapping-3c03d",
+    "storage_bucket": "indoor-mapping-3c03d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291528747801:android:c38fce31796aa02bdbb388",
+        "android_client_info": {
+          "package_name": "com.misis.ips.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwU8239tAu8baHNqdEImVX7e5lOYaubKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
